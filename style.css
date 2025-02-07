@@ -11,3 +11,9 @@
 .separate {
     color: #8b7c7c82;
 }
+
+.hero-section {
+    background-image: url(./img/h1_hero.jpg);
+    min-height: 100vh;
+    background-size: cover;
+}
