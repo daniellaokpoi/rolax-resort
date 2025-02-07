@@ -4,6 +4,11 @@
     box-sizing: border-box;
 }
 
+body, html {
+    width: 100%;
+    overflow-x: hidden;
+}
+
 .call-info {
     background-color: #2e0000;
 }
